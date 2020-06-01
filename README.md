@@ -5,6 +5,7 @@ This is a record of my 100 Days of Code. The following links are for projects I 
 * [The Blue Leopard WebSite](https://github.com/sana-shaik/The-Blue-Leopard-WebSite)
 * [PluralSight LoginPage Clone](https://github.com/sana-shaik/PS-LoginPageClone)
 * [Acme Responsive HTML CSS Page](https://github.com/sana-shaik/ACME-WebSite)
+* [Beach Full Image Landing Page](https://github.com/sana-shaik/Beach-Full-Image_LandingPage)
 
 
 ## Daily Log
@@ -13,4 +14,5 @@ Day2 - Created a Mobile Version of WebPage using HTML&CSS on the Project [The Bl
 Day3 - Completed Responsive WebPage [The Blue Leopard WebSite](https://github.com/sana-shaik/The-Blue-Leopard-WebSite)  
 Day4 - Gone through HTML WebComponents  
 Day5 - Built a WebPage using HTML & CSS [PluralSight LoginPage Clone](https://github.com/sana-shaik/PS-LoginPageClone)  
-Day6 - Built a Responsive HTML & CSS Page [Acme Responsive HTML CSS Page](https://github.com/sana-shaik/ACME-WebSite)
+Day6 - Built a Responsive HTML & CSS Page [Acme Responsive HTML CSS Page](https://github.com/sana-shaik/ACME-WebSite)  
+Day7 - Built a Basic Landing Page with Full Image Covered Over Screen [Beach Full Image Landing Page](https://github.com/sana-shaik/Beach-Full-Image_LandingPage)  
