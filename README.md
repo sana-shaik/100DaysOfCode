@@ -6,6 +6,7 @@ This is a record of my 100 Days of Code. The following links are for projects I 
 * [PluralSight LoginPage Clone](https://github.com/sana-shaik/PS-LoginPageClone)
 * [Acme Responsive HTML CSS Page](https://github.com/sana-shaik/ACME-WebSite)
 * [Beach Full Image Landing Page](https://github.com/sana-shaik/Beach-Full-Image_LandingPage)
+* [Video Background WebPage](https://github.com/sana-shaik/Video-BG-WebPage)
 
 
 ## Daily Log
@@ -16,3 +17,4 @@ Day4 - Gone through HTML WebComponents
 Day5 - Built a WebPage using HTML & CSS [PluralSight LoginPage Clone](https://github.com/sana-shaik/PS-LoginPageClone)  
 Day6 - Built a Responsive HTML & CSS Page [Acme Responsive HTML CSS Page](https://github.com/sana-shaik/ACME-WebSite)  
 Day7 - Built a Basic Landing Page with Full Image Covered Over Screen [Beach Full Image Landing Page](https://github.com/sana-shaik/Beach-Full-Image_LandingPage)  
+Day7 - Built a Video Background WebPage [Video Background WebPage](https://github.com/sana-shaik/Video-BG-WebPage)
