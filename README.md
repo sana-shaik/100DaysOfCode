@@ -8,6 +8,8 @@ This is a record of my 100 Days of Code. The following links are for projects I 
 * [Beach Full Image Landing Page](https://github.com/sana-shaik/Beach-Full-Image_LandingPage)
 * [Video Background WebPage](https://github.com/sana-shaik/Video-BG-WebPage)
 * [AppTheme WebPage](https://github.com/sana-shaik/AppTheme)
+* [Basic Parallax Website](https://github.com/sana-shaik/parallax-website)
+* [Slide Menu](https://github.com/sana-shaik/SlideMenu)
 
 
 ## Daily Log
@@ -20,3 +22,5 @@ Day6 - Built a Responsive HTML & CSS Page [Acme Responsive HTML CSS Page](https:
 Day7 - Built a Basic Landing Page with Full Image Covered Over Screen [Beach Full Image Landing Page](https://github.com/sana-shaik/Beach-Full-Image_LandingPage)  
 Day7 - Built a Video Background WebPage [Video Background WebPage](https://github.com/sana-shaik/Video-BG-WebPage)  
 Day8 - Built a WebPage using Flexbox Grid [AppTheme WebPage](https://github.com/sana-shaik/AppTheme)  
+Day9 - Built a Parallax Website [Basic Parallax Website](https://github.com/sana-shaik/parallax-website) and Slide Menu [Slide Menu](https://github.com/sana-shaik/SlideMenu)  
+
