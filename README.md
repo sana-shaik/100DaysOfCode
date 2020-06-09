@@ -10,7 +10,9 @@ This is a record of my 100 Days of Code. The following links are for projects I 
 * [AppTheme WebPage](https://github.com/sana-shaik/AppTheme)
 * [Basic Parallax Website](https://github.com/sana-shaik/parallax-website)
 * [Slide Menu](https://github.com/sana-shaik/SlideMenu)
-
+* [Coming Soon Landing Page](https://github.com/sana-shaik/coming-soon-landingpage)
+* [Split Landing Page](https://github.com/sana-shaik/split-landing-page)
+* [myTunes Landing Page](https://github.com/sana-shaik/mytunes-landingPage)
 
 ## Daily Log
 Day1 - Created a basic Layout of WebPage using HTML&CSS on the Project [The Blue Leopard WebSite](https://github.com/sana-shaik/The-Blue-Leopard-WebSite)  
@@ -23,4 +25,6 @@ Day7 - Built a Basic Landing Page with Full Image Covered Over Screen [Beach Ful
 Day7 - Built a Video Background WebPage [Video Background WebPage](https://github.com/sana-shaik/Video-BG-WebPage)  
 Day8 - Built a WebPage using Flexbox Grid [AppTheme WebPage](https://github.com/sana-shaik/AppTheme)  
 Day9 - Built a Parallax Website [Basic Parallax Website](https://github.com/sana-shaik/parallax-website) and Slide Menu [Slide Menu](https://github.com/sana-shaik/SlideMenu)  
+Day10 - Built a [Coming Soon Landing Page](https://github.com/sana-shaik/coming-soon-landingpage)  and [Split Landing Page](https://github.com/sana-shaik/split-landing-page) using HTML/CSS/JS.  
+Day11 - Built [myTunes Landing Page](https://github.com/sana-shaik/mytunes-landingPage) using HTML/CSS/Jquery.  
 
