@@ -13,6 +13,10 @@ This is a record of my 100 Days of Code. The following links are for projects I 
 * [Coming Soon Landing Page](https://github.com/sana-shaik/coming-soon-landingpage)
 * [Split Landing Page](https://github.com/sana-shaik/split-landing-page)
 * [myTunes Landing Page](https://github.com/sana-shaik/mytunes-landingPage)
+* [Blur Landing Page](https://github.com/sana-shaik/Blur-LandingPage)
+* [Smooth Scroll](https://github.com/sana-shaik/smooth-scroll)
+* [TVS Pharmacy Mobile UI](https://github.com/sana-shaik/TVS-Pharmacy-MobileUI)
+* [Phono Product Landing Page](https://github.com/sana-shaik/Phono-ProductLandingPage)
 
 ## Daily Log
 Day1 - Created a basic Layout of WebPage using HTML&CSS on the Project [The Blue Leopard WebSite](https://github.com/sana-shaik/The-Blue-Leopard-WebSite)  
@@ -27,4 +31,8 @@ Day8 - Built a WebPage using Flexbox Grid [AppTheme WebPage](https://github.com/
 Day9 - Built a Parallax Website [Basic Parallax Website](https://github.com/sana-shaik/parallax-website) and Slide Menu [Slide Menu](https://github.com/sana-shaik/SlideMenu)  
 Day10 - Built a [Coming Soon Landing Page](https://github.com/sana-shaik/coming-soon-landingpage)  and [Split Landing Page](https://github.com/sana-shaik/split-landing-page) using HTML/CSS/JS.  
 Day11 - Built [myTunes Landing Page](https://github.com/sana-shaik/mytunes-landingPage) using HTML/CSS/Jquery.  
+Day12 - Built [Blur Landing Page](https://github.com/sana-shaik/Blur-LandingPage) and [Smooth Scroll](https://github.com/sana-shaik/smooth-scroll)  
+Day13 - Built [TVS Pharmacy Mobile UI](https://github.com/sana-shaik/TVS-Pharmacy-MobileUI)  
+Day14 - Built [Phono Product Landing Page](https://github.com/sana-shaik/Phono-ProductLandingPage)   
+
 
