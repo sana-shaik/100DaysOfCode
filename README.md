@@ -2,6 +2,8 @@
 This is a record of my 100 Days of Code. The following links are for projects I worked on during the challenge.
 
 ## Projects
+
+### HTML & CSS Projects
 * [The Blue Leopard WebSite](https://github.com/sana-shaik/The-Blue-Leopard-WebSite)
 * [PluralSight LoginPage Clone](https://github.com/sana-shaik/PS-LoginPageClone)
 * [Acme Responsive HTML CSS Page](https://github.com/sana-shaik/ACME-WebSite)
@@ -17,6 +19,8 @@ This is a record of my 100 Days of Code. The following links are for projects I 
 * [Smooth Scroll](https://github.com/sana-shaik/smooth-scroll)
 * [TVS Pharmacy Mobile UI](https://github.com/sana-shaik/TVS-Pharmacy-MobileUI)
 * [Phono Product Landing Page](https://github.com/sana-shaik/Phono-ProductLandingPage)
+
+### CSS Projects
 
 ## Daily Log
 Day1 - Created a basic Layout of WebPage using HTML&CSS on the Project [The Blue Leopard WebSite](https://github.com/sana-shaik/The-Blue-Leopard-WebSite)  
