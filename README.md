@@ -21,6 +21,7 @@ This is a record of my 100 Days of Code. The following links are for projects I 
 * [Phono Product Landing Page](https://github.com/sana-shaik/Phono-ProductLandingPage)
 
 ### CSS Projects
+* [CSS Grid Webpage](https://github.com/sana-shaik/CSS-Grid-WebPage)  
 
 ## Daily Log
 Day1 - Created a basic Layout of WebPage using HTML&CSS on the Project [The Blue Leopard WebSite](https://github.com/sana-shaik/The-Blue-Leopard-WebSite)  
@@ -38,5 +39,4 @@ Day11 - Built [myTunes Landing Page](https://github.com/sana-shaik/mytunes-landi
 Day12 - Built [Blur Landing Page](https://github.com/sana-shaik/Blur-LandingPage) and [Smooth Scroll](https://github.com/sana-shaik/smooth-scroll)  
 Day13 - Built [TVS Pharmacy Mobile UI](https://github.com/sana-shaik/TVS-Pharmacy-MobileUI)  
 Day14 - Built [Phono Product Landing Page](https://github.com/sana-shaik/Phono-ProductLandingPage)   
-
-
+Day15 - Built [CSS Grid Webpage](https://github.com/sana-shaik/CSS-Grid-WebPage) using CSS Grid.  
